@@ -1,7 +1,7 @@
 {
   "name": "cocktails",
   "version": "0.1.0",
-  "homepage": "https://NikaKhiz.github.io/cocktails",
+  "homepage": "https://NikaKhiz.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
